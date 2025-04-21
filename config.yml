@@ -11,3 +11,4 @@ gui:
       - ":O"
     rate: 80
   nerdFontsVersion: "3"
+  showFileIcons: false
