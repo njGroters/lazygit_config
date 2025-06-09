@@ -12,3 +12,7 @@ gui:
     rate: 80
   nerdFontsVersion: "3"
   showFileIcons: false
+git:
+  paging:
+    colorArg: always
+    pager: delta --dark --paging=never
